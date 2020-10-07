@@ -1,2 +1,2 @@
-# Bank-Complaints-Text-Classification
-Bank Complaints Text Classification
+# End to End Text Classification on Bank Complaints Dataset
+
