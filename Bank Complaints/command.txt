@@ -1,0 +1,5 @@
+gcloud config set project srivatsan-project
+
+python3 ComplaintsFlask.py
+
+curl Http://localhost:5000/score -d "{\"text\":\"I have a federal student loan and there is supposed to be a zero percent interest rate"}
